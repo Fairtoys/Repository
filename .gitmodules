@@ -1,0 +1,3 @@
+[submodule "JCReusePool"]
+	path = JCReusePool
+	url = https://github.com/Fairtoys/JCReusePool
